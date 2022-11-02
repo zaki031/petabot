@@ -4,6 +4,9 @@
   color: #fff;
   ;
 }
+html{
+  scroll-behavior: smooth;
+}
 .logo {
   padding-right: 900px;
   font-weight: 500;
