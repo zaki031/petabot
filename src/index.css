@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Droid Arabic Kufi;
+  src: url('./images/DroidKufi-Regular.ttf')
+}
+body {
+  font-family: Droid Arabic Kufi, sans-serif;
+  margin: 0;
+
+}
+

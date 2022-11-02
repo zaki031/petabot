@@ -1,0 +1,114 @@
+
+.App {
+  text-align: center;
+  color: #fff;
+  ;
+}
+.logo {
+  padding-right: 900px;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.App ul{
+  padding-right: 50px;
+  justify-content: right;
+  display: flex;
+  gap: 50px;
+  list-style-type: none;
+}
+.App ul li a::after{
+  content: '';
+  height: 3px;
+  width: 0%;
+  background-color: #fff;
+  display: block;
+  transition: .5s ease-in-out;
+}
+
+.App ul li a:hover::after{
+  content: '';
+  height: 3px;
+  width: 100%;
+  background-color: #fff;
+  display: block;
+}
+
+body{
+  background-color: #131520  ;
+}
+
+.home .banner h1{
+  font-size: 3rem;
+}
+  
+
+
+
+
+.home .what .right{
+  height: 300px;
+  width: 500px;
+  border-radius: 5px;
+  transform: scale(1) perspective(1000px) rotateX(23deg) rotateY(23deg) rotate(-9.8deg) translateX(-15px);
+
+  
+}
+.home .what .left{
+  margin-left: 30px;
+  height: 300px;
+  width: 500px;
+  border-radius: 5px;
+  transform: scale(1) perspective(1000px) rotateX(23deg) rotateY(23deg) rotate(-9.8deg) translateX(15px);
+
+}
+.home .what .left:hover,
+.home .what .right:hover{
+  
+  transform: scale(1) rotateX(0) rotateY(0) rotate(0) translateX(-45px);
+
+  transition: all .2s ease-out;
+}
+.what .item{
+  display: flex;
+
+  
+}
+.what p{
+ margin-left: -100px;
+  font-size: 30px;
+  padding-top: 50px ; padding-bottom:  20px;
+  padding-left: 300px;
+  padding-right: 300px;
+  background-color: #191b27;
+  border-radius: 10px;
+  
+}
+.what p:hover{
+  border: solid 1px white;
+
+}
+
+button{
+  height: 50px;
+  background-color: #191b27;
+  color: #fff;
+  border-radius: 5px;
+  border-color: #fff;
+  border: none;
+  font-size: 20px;
+
+  width: 200px;
+}
+button:hover{
+  border: solid 1px #fff;
+}
+
+.footer{
+  background-color: #191b27;
+}
+.btn_grp{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+}
