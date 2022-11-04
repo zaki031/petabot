@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/petabot/static/css/main.a264f817.css",
+    "main.js": "/petabot/static/js/main.ca6cfa74.js",
+    "static/js/787.58f4606b.chunk.js": "/petabot/static/js/787.58f4606b.chunk.js",
+    "static/media/anime.png": "/petabot/static/media/anime.1ea109d5367b2a20134f.png",
+    "static/media/manga.png": "/petabot/static/media/manga.0e4fa11051fa6bf71d88.png",
+    "static/media/servers.png": "/petabot/static/media/servers.432836ff9ae4b016fc29.png",
+    "static/media/DroidKufi-Regular.ttf": "/petabot/static/media/DroidKufi-Regular.475efa448565fa19578b.ttf",
+    "static/media/logo.png": "/petabot/static/media/logo.cf4a6b3ea3a621a5efc9.png",
+    "static/media/logo.svg": "/petabot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/petabot/index.html",
+    "main.a264f817.css.map": "/petabot/static/css/main.a264f817.css.map",
+    "main.ca6cfa74.js.map": "/petabot/static/js/main.ca6cfa74.js.map",
+    "787.58f4606b.chunk.js.map": "/petabot/static/js/787.58f4606b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a264f817.css",
+    "static/js/main.ca6cfa74.js"
+  ]
+}
